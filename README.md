@@ -1,5 +1,5 @@
 # Autonomous Driving using Deep Learning and Behavioural Cloning
-This repository is to support the code for [this]() blog. It contains the code to train a Deep Neural Network to drive a car! 
+This repository is to support the code for [this](https://medium.com/@akarshzingade/autonomous-driving-using-deep-learning-and-behavioural-cloning-97983a57fe10) blog. It contains the code to train a Deep Neural Network to drive a car! 
 
 ## Introduction
 There are 2 phases for this:
@@ -34,3 +34,6 @@ usage: drive.py [-h] model [image_folder]
   image_folder  Path to image folder. This is where the images from the run
                 will be saved.
 ```
+
+## Credits
+The drive.py is based on Udacity CarND Behavioral Cloning Project which can be found [here](https://github.com/udacity/CarND-Behavioral-Cloning-P3)
