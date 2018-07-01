@@ -27,7 +27,7 @@ parser.add_argument( '--batch_size', type=int, default=128,
     help='Batch Size for training.' )
 
 parser.add_argument( '--model_path', type=str, default='./model.h5', 
-    help='Batch Size for training.' )
+    help='Path to save the trained model.' )
 
 args = parser.parse_args()
 
